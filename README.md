@@ -16,6 +16,6 @@ Redis is often referred as a ***data structure*** sever.
 
 # Link
 --------------
-[Redis] (https://redis.io)
+[Redis](https://redis.io)
 ---------------------
 
