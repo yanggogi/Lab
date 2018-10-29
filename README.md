@@ -1,9 +1,13 @@
 # What is Redis?
+
 ---------------------
+
 Redis is often referred as a ***data structure*** sever.
 
 # Building Redis
+
 ----------------------------
+
  + it is simple. just type `make`
 ```
 % make
@@ -15,7 +19,10 @@ Redis is often referred as a ***data structure*** sever.
 ```
 asdasdasd
 # Link
+
 --------------
+
 [Redis](https://redis.io)
+
 ---------------------
 
